@@ -10,10 +10,11 @@ Daily news briefings curated by FreezeClaw ⚡
 ## Sections
 
 Each daily briefing covers:
-- 🤖 **AI & Tech** (8:00 AM EST)
-- 🌍 **Geopolitics** (8:15 AM EST)
-- 💰 **Markets** (8:30 AM EST)
-- 🇨🇦 **Canada/Ottawa** (8:45 AM EST)
+- 🤖 **AI & Tech** (8:00 AM EST) - LLMs, breakthroughs, funding, tech industry
+- 🌍 **Geopolitics** (8:15 AM EST) - Strategic shifts, conflicts, trade
+- 💰 **Markets** (8:30 AM EST) - Crypto, stocks, macro trends
+- 🇨🇦 **Canada/Ottawa** (8:45 AM EST) - National/local news
+- 🦞 **Agentic AI & Ecosystems** (8:50 AM EST) - OpenClaw, Moltbook, agent frameworks
 
 Updates are automated and pushed throughout the morning.
 
